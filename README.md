@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/singhtanya16/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhtanya16/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/singhtanya16/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/singhtanya16/leetcode/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/singhtanya16/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/singhtanya16/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/singhtanya16/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/singhtanya16/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/singhtanya16/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/singhtanya16/leetcode/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/singhtanya16/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/singhtanya16/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/singhtanya16/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
