@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/singhtanya16/leetcode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/singhtanya16/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
