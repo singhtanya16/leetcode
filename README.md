@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/singhtanya16/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/singhtanya16/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singhtanya16/leetcode/tree/master/0268-missing-number) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/singhtanya16/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/singhtanya16/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
