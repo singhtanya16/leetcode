@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/singhtanya16/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/singhtanya16/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/singhtanya16/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/singhtanya16/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/singhtanya16/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/singhtanya16/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singhtanya16/leetcode/tree/master/0268-missing-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/singhtanya16/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/singhtanya16/leetcode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
