@@ -146,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/singhtanya16/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/singhtanya16/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/singhtanya16/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
