@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/singhtanya16/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/singhtanya16/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/singhtanya16/leetcode/tree/master/0283-move-zeroes) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/singhtanya16/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/singhtanya16/leetcode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/singhtanya16/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/singhtanya16/leetcode/tree/master/0010-regular-expression-matching) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/singhtanya16/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/singhtanya16/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
