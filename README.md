@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/singhtanya16/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/singhtanya16/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/singhtanya16/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/singhtanya16/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/singhtanya16/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/singhtanya16/leetcode/tree/master/0268-missing-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/singhtanya16/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/singhtanya16/leetcode/tree/master/0410-split-array-largest-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/singhtanya16/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/singhtanya16/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
