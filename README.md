@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/singhtanya16/leetcode/tree/master/0268-missing-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/singhtanya16/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singhtanya16/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/singhtanya16/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/singhtanya16/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/singhtanya16/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/singhtanya16/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/singhtanya16/leetcode/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
